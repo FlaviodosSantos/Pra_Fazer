@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PraFazer</string>
+    <string name="cadastro">Nova Tarefa</string>
+    <string name="tempo_splash">3000</string>
+    <string name="nome">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="hora">Hora</string>
+
+    <string-array name="spinner_tipo">
+        <item>Importante</item>
+        <item>Tarefa</item>
+        <item>Lembrar</item>
+    </string-array>
+
+    <string name="descricao">Descrição</string>
+    <string name="menu_salvar">Salvar</string>
+</resources>
